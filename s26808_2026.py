@@ -3,7 +3,7 @@
 # Date     : 2026-05-06
 # Desc     : Random DNA sequence generator in FASTA format.
 #            Supports motif search, complement, transcription,
-#            ORF finding, sliding-window GC analysis.
+#            ORF finding, sliding-window GC analysis
 
 
 import random
